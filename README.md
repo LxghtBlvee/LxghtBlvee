@@ -7,7 +7,6 @@
 
 <img src="https://lanyard.cnrad.dev/api/1465546521645682801?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px" />
 
-
 </div>
 
 ---
@@ -23,33 +22,16 @@
 ## 🧰 Tech Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,python,java,docker,mongodb,git,github,linux&perline=20" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bun,react,nextjs,tailwind,vite,webpack,python,java,cpp,docker,kubernetes,mongodb,postgres,redis,git,github,linux,nginx,cloudflare,vercel,postman&perline=50" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=LxghtBlvee&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=LxghtBlvee&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LxghtBlvee&theme=onedark&no-frame=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LxghtBlvee&theme=tokyo-night&hide_border=true" />
 
 </div>
 
