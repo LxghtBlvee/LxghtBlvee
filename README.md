@@ -24,7 +24,11 @@
 ## 🧰 Tech Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bun,react,nextjs,tailwind,vite,webpack,python,java,cpp,docker,kubernetes,mongodb,postgres,redis,git,github,linux,nginx,cloudflare,vercel,postman&perline=50" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bun,react,nextjs,tailwind,vite,webpack&perline=20" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,docker,kubernetes,mongodb,postgres,redis,git,github,linux,nginx,cloudflare,vercel,postman&perline=20" />
 
 </div>
 
