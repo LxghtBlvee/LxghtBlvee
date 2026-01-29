@@ -20,7 +20,7 @@
 ## 🧰 Tech Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,python,mongodb,git,github,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,python,java,docker,mongodb,git,github,linux&perline=20" />
 
 </div>
 
@@ -29,8 +29,8 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LxghtBlvee&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxghtBlvee&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=LxghtBlvee&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxghtBlvee&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <img height="180" src="https://streak-stats.demolab.com?user=LxghtBlvee&theme=tokyonight&hide_border=true" />
 
