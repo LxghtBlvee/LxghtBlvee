@@ -5,6 +5,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=LxghtBlvee&style=flat&color=blue" />
 
+<img src="https://lanyard.cnrad.dev/api/1465546521645682801?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px" />
+
+
 </div>
 
 ---
@@ -29,10 +32,15 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LxghtBlvee&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxghtBlvee&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=LxghtBlvee&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=LxghtBlvee&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=LxghtBlvee&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -41,7 +49,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LxghtBlvee&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=LxghtBlvee&theme=onedark&no-frame=true" />
 
 </div>
 
