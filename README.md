@@ -1,57 +1,35 @@
 <h1 align="center">LxghtBlvee</h1>
 <p align="center">
-Systems Architecture • Discord Infrastructure • Roblox Intelligence
+Discord Infrastructure • Roblox Intelligence • Backend Systems
 </p>
 
 ---
 
 ## Overview
 
-Builder of **Vanta Systems** — a structured ecosystem focused on:
+Builder of Vanta Systems — a structured Discord + Roblox infrastructure stack.
 
-- Discord automation infrastructure
-- Roblox ↔ Discord identity linking
-- Internal API architecture
-- Evidence registry systems
-- Intelligence tooling
-- MongoDB-backed service state tracking
-- Railway + Cloudflare deployments
+Focused on:
 
-This profile reflects active development across production services.
-
----
-
-## Core Project — Vanta Systems
-
-Vanta Systems is a multi-component architecture consisting of:
-
-• Discord bot infrastructure  
-• Roblox verification bridge  
-• Internal API service  
-• MongoDB data layer  
-• Evidence registry system  
-• Service heartbeat + monitoring  
-• Deployment via Railway  
-
-Primary focus areas:
-
+- Identity linking (Discord ↔ Roblox)
+- Evidence registry architecture
 - Role-based permissions
 - Audit logging
-- Cross-platform identity correlation
-- Structured intel dashboards
-- Scalable command architecture
+- Internal API services
+- MongoDB-backed state tracking
+- Railway + Cloudflare deployments
 
 ---
 
-## Technical Stack
+## Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Discord.js-111111?style=for-the-badge&logo=discord"/>
-  <img src="https://img.shields.io/badge/Railway-111111?style=for-the-badge&logo=railway"/>
-  <img src="https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare"/>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Node.js-181818?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Discord.js-181818?style=for-the-badge&logo=discord"/>
+  <img src="https://img.shields.io/badge/Railway-181818?style=for-the-badge&logo=railway"/>
+  <img src="https://img.shields.io/badge/Cloudflare-181818?style=for-the-badge&logo=cloudflare"/>
 </p>
 
 ---
@@ -59,11 +37,11 @@ Primary focus areas:
 ## Development Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LxghtBlvee&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LxghtBlvee&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxghtBlvee&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxghtBlvee&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
@@ -76,31 +54,16 @@ Primary focus areas:
 
 ---
 
-## Architecture Focus
+## Current Engineering Focus
 
-Current active development areas:
-
-- Advanced Roblox intel checks (groups, friends, risk indicators)
-- Structured evidence management system
-- Watchlist logging + DM log pagination
-- Service state persistence
-- Cross-service heartbeat reporting
-- Internal admin dashboard improvements
+- Advanced Roblox intel checks
+- Structured evidence management
+- Watchlist log pagination + DM delivery
+- Service heartbeat persistence
+- Internal dashboard improvements
+- Cross-service identity correlation
 
 ---
-
-## Engineering Principles
-
-- Explicit role gating
-- Immutable audit trails
-- Typed API contracts
-- Minimal runtime assumptions
-- Clear separation between bot, API, and dashboard layers
-- Production-first deployment mindset
-
----
-
-## Profile Metrics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LxghtBlvee&label=Profile%20Views&color=0e75b6&style=flat"/>
