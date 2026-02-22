@@ -35,14 +35,6 @@ Engineer behind Vanta Systems — a Discord + Roblox infrastructure stack focuse
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LxghtBlvee/LxghtBlvee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## Stack
 
 <p>
