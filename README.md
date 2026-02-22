@@ -14,7 +14,7 @@ Engineer behind Vanta Systems — a Discord + Roblox infrastructure stack focuse
 ## Metrics
 
 <p align="center">
-  <img src="./assets/metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/LxghtBlvee/LxghtBlvee/main/assets/metrics.svg" />
 </p>
 
 ---
@@ -22,7 +22,15 @@ Engineer behind Vanta Systems — a Discord + Roblox infrastructure stack focuse
 ## Contribution Graph
 
 <p align="center">
-  <img src="./assets/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+  <img src="https://raw.githubusercontent.com/LxghtBlvee/LxghtBlvee/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LxghtBlvee/LxghtBlvee/main/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
