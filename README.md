@@ -10,7 +10,7 @@
 
 ## 🧠 About
 
-Founder of the **Nerex ecosystem** — a multi-service Discord automation and intelligence suite.
+Founder of the **Vanta ecosystem** — a multi-service Discord automation and intelligence suite.
 
 Focused on:
 - High-scale Discord bot architecture
