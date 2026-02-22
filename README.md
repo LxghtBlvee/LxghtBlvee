@@ -1,70 +1,111 @@
 <h1 align="center">LxghtBlvee</h1>
 <p align="center">
-Discord Infrastructure • Roblox Intelligence • Backend Systems
+Backend Systems • Discord Infrastructure • Roblox Intelligence
 </p>
 
 ---
 
 ## Overview
 
-Builder of Vanta Systems — a structured Discord + Roblox infrastructure stack.
+Engineer behind Vanta Systems — a structured Discord + Roblox infrastructure stack focused on identity correlation, audit logging, and scalable bot architecture.
 
-Focused on:
+Primary interests:
 
-- Identity linking (Discord ↔ Roblox)
+- Distributed Discord bot systems
+- Roblox ↔ Discord identity linking
 - Evidence registry architecture
-- Role-based permissions
-- Audit logging
-- Internal API services
-- MongoDB-backed state tracking
-- Railway + Cloudflare deployments
+- Role-gated permissions
+- Internal API design
+- Deployment automation
 
 ---
 
-## Stack
+## Core Competencies
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Node.js-181818?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Discord.js-181818?style=for-the-badge&logo=discord"/>
-  <img src="https://img.shields.io/badge/Railway-181818?style=for-the-badge&logo=railway"/>
-  <img src="https://img.shields.io/badge/Cloudflare-181818?style=for-the-badge&logo=cloudflare"/>
-</p>
+### Backend
+- TypeScript (advanced)
+- Node.js runtime internals
+- Express / Fastify APIs
+- REST architecture design
+- Middleware systems
+- Authentication flows (OAuth, key-based auth)
+- Rate limiting + validation (Zod)
+
+### Databases
+- MongoDB (schema modeling, indexing, aggregation)
+- SQLite (lightweight registry systems)
+- Data normalization strategies
+- Audit log persistence design
+
+### Discord Systems
+- discord.js (slash commands, interactions, embeds)
+- Role-based access gating
+- Component-driven UI (buttons, pagination)
+- Watchlist logging systems
+- DM-based log delivery
+- Shard-aware design concepts
+
+### Roblox Integration
+- Identity verification bridging
+- External API consumption
+- Group + friend analysis
+- Risk indicator modeling
+- Cross-platform data correlation
+
+### Infrastructure
+- Railway deployments
+- Cloudflare Workers
+- Environment management
+- Service heartbeat monitoring
+- Status persistence
+- Production debugging
+
+### Architecture Patterns
+- Layered service separation (bot / API / dashboard)
+- Typed contracts between services
+- Event-driven logging
+- Minimal runtime assumptions
+- Explicit permission boundaries
 
 ---
 
-## Development Metrics
+## Technology Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LxghtBlvee&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxghtBlvee&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LxghtBlvee&theme=github-dark&hide_border=true"/>
-</p>
+TypeScript  
+Node.js  
+MongoDB  
+SQLite  
+Discord.js  
+Express  
+Fastify  
+Zod  
+Railway  
+Cloudflare Workers  
+GitHub Actions  
+REST APIs  
+OAuth2  
+JWT  
 
 ---
 
 ## Current Engineering Focus
 
-- Advanced Roblox intel checks
-- Structured evidence management
-- Watchlist log pagination + DM delivery
-- Service heartbeat persistence
-- Internal dashboard improvements
-- Cross-service identity correlation
+- Advanced Roblox intel modules
+- Structured evidence lifecycle
+- Log pagination + interactive components
+- Service uptime tracking
+- Cross-service identity expansion
+- Dashboard + API alignment
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LxghtBlvee&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+## Philosophy
+
+Build systems that are:
+
+- Observable
+- Permission-safe
+- Traceable
+- Typed
+- Deployable
+- Maintainable
