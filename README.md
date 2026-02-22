@@ -20,7 +20,7 @@ Focused on:
 - Advanced monitoring + automation
 
 Currently building:
-- Atlas V2 (Intelligence Core)
+- Vanta V2 (Intelligence Core)
 - Relay V2 (Automation Engine)
 - Roblox verification bridge
 - Advanced evidence registry system
