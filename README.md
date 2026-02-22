@@ -7,105 +7,55 @@ Backend Systems • Discord Infrastructure • Roblox Intelligence
 
 ## Overview
 
-Engineer behind Vanta Systems — a structured Discord + Roblox infrastructure stack focused on identity correlation, audit logging, and scalable bot architecture.
+Engineer behind Vanta Systems — a Discord + Roblox infrastructure stack focused on identity correlation, audit logging, and scalable bot architecture.
 
-Primary interests:
+---
 
-- Distributed Discord bot systems
+## Metrics
+
+<p align="center">
+  <img src="./assets/metrics.svg" alt="Metrics" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="./assets/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LxghtBlvee/LxghtBlvee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Node.js-181818?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/SQLite-181818?style=for-the-badge&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/Discord.js-181818?style=for-the-badge&logo=discord"/>
+  <img src="https://img.shields.io/badge/Fastify-181818?style=for-the-badge&logo=fastify"/>
+  <img src="https://img.shields.io/badge/Express-181818?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/Cloudflare-181818?style=for-the-badge&logo=cloudflare"/>
+  <img src="https://img.shields.io/badge/Railway-181818?style=for-the-badge&logo=railway"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-181818?style=for-the-badge&logo=githubactions"/>
+</p>
+
+---
+
+## What I Build
+
 - Roblox ↔ Discord identity linking
-- Evidence registry architecture
-- Role-gated permissions
-- Internal API design
-- Deployment automation
-
----
-
-## Core Competencies
-
-### Backend
-- TypeScript (advanced)
-- Node.js runtime internals
-- Express / Fastify APIs
-- REST architecture design
-- Middleware systems
-- Authentication flows (OAuth, key-based auth)
-- Rate limiting + validation (Zod)
-
-### Databases
-- MongoDB (schema modeling, indexing, aggregation)
-- SQLite (lightweight registry systems)
-- Data normalization strategies
-- Audit log persistence design
-
-### Discord Systems
-- discord.js (slash commands, interactions, embeds)
-- Role-based access gating
-- Component-driven UI (buttons, pagination)
-- Watchlist logging systems
-- DM-based log delivery
-- Shard-aware design concepts
-
-### Roblox Integration
-- Identity verification bridging
-- External API consumption
-- Group + friend analysis
-- Risk indicator modeling
-- Cross-platform data correlation
-
-### Infrastructure
-- Railway deployments
-- Cloudflare Workers
-- Environment management
-- Service heartbeat monitoring
-- Status persistence
-- Production debugging
-
-### Architecture Patterns
-- Layered service separation (bot / API / dashboard)
-- Typed contracts between services
-- Event-driven logging
-- Minimal runtime assumptions
-- Explicit permission boundaries
-
----
-
-## Technology Stack
-
-TypeScript  
-Node.js  
-MongoDB  
-SQLite  
-Discord.js  
-Express  
-Fastify  
-Zod  
-Railway  
-Cloudflare Workers  
-GitHub Actions  
-REST APIs  
-OAuth2  
-JWT  
-
----
-
-## Current Engineering Focus
-
-- Advanced Roblox intel modules
-- Structured evidence lifecycle
-- Log pagination + interactive components
-- Service uptime tracking
-- Cross-service identity expansion
-- Dashboard + API alignment
-
----
-
-## Philosophy
-
-Build systems that are:
-
-- Observable
-- Permission-safe
-- Traceable
-- Typed
-- Deployable
-- Maintainable
+- Intel panels + evidence registry systems
+- Role-gated permissions + audit logging
+- Internal APIs + service monitoring
+- Production deployments (Railway / Cloudflare)
