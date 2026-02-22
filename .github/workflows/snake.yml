@@ -11,12 +11,19 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: LxghtBlvee
           outputs: |
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: stefanzweifel/git-auto-commit-action@v5
+
+      - name: Commit snake
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore(readme): update contribution snake'
