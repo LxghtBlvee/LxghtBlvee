@@ -4,9 +4,9 @@ Backend Systems • Discord Infrastructure • Roblox Intelligence
 </p>
 
 <p align="center">
-  <img src="https://localhost:4010//v1/badges/music" />
-  <img src="https://localhost:4010/v1/badges/discord" />
-  <img src="https://localhost:4010/v1/badges/time" />
+  <img src="https://api-lxghtblvee.up.railway.app/v1/badges/music" />
+  <img src="https://api-lxghtblvee.up.railway.app/v1/badges/discord" />
+  <img src="https://api-lxghtblvee.up.railway.app/v1/badges/time" />
 </p>
 
 ---
@@ -60,8 +60,8 @@ Engineer behind Vanta Systems — a Discord + Roblox infrastructure stack focuse
 
 ## What I Build
 
-- Roblox ↔ Discord identity linking
-- Intel panels + evidence registry systems
-- Role-gated permissions + audit logging
-- Internal APIs + service monitoring
+- Roblox ↔ Discord identity linking  
+- Intel panels + evidence registry systems  
+- Role-gated permissions + audit logging  
+- Internal APIs + service monitoring  
 - Production deployments (Railway / Cloudflare)
