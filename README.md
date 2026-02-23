@@ -3,6 +3,12 @@
 Backend Systems • Discord Infrastructure • Roblox Intelligence
 </p>
 
+<p align="center">
+  <img src="https://localhost:4010//v1/badges/music" />
+  <img src="https://localhost:4010/v1/badges/discord" />
+  <img src="https://localhost:4010/v1/badges/time" />
+</p>
+
 ---
 
 ## Overview
