@@ -1,45 +1,3 @@
-<h1 align="center">LxghtBlvee</h1>
-<p align="center">
-Backend Systems • Discord Infrastructure • Roblox Intelligence
-</p>
-
-<p align="center">
-  <img src="https://api-lxghtblvee.up.railway.app/v1/badges/music" />
-  <img src="https://api-lxghtblvee.up.railway.app/v1/badges/discord" />
-  <img src="https://api-lxghtblvee.up.railway.app/v1/badges/time" />
-</p>
-
----
-
-## Overview
-
-Engineer behind Vanta Systems — a Discord + Roblox infrastructure stack focused on identity correlation, audit logging, and scalable bot architecture.
-
----
-
-## Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LxghtBlvee/LxghtBlvee/main/assets/metrics.svg" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LxghtBlvee/LxghtBlvee/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LxghtBlvee/LxghtBlvee/main/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## Stack
 
@@ -57,11 +15,3 @@ Engineer behind Vanta Systems — a Discord + Roblox infrastructure stack focuse
 </p>
 
 ---
-
-## What I Build
-
-- Roblox ↔ Discord identity linking  
-- Intel panels + evidence registry systems  
-- Role-gated permissions + audit logging  
-- Internal APIs + service monitoring  
-- Production deployments (Railway / Cloudflare)
