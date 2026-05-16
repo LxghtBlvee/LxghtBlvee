@@ -17,6 +17,7 @@ Self-taught developer building web infrastructure, APIs, and Discord bots for Ro
 
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-%23FF6B00.svg?style=for-the-badge&logo=hono&logoColor=white)
 
 
 **Frontend**
@@ -40,6 +41,7 @@ Self-taught developer building web infrastructure, APIs, and Discord bots for Ro
 ![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F2CC0C.svg?style=for-the-badge&logo=grafana&logoColor=black)
 ![Rancher](https://img.shields.io/badge/Rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![OpenNMS](https://img.shields.io/badge/OpenNMS-%23ED3237.svg?style=for-the-badge&logo=opennms&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
