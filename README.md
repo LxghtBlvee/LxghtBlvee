@@ -1,4 +1,4 @@
-# hey, i'm damian 👋
+# hey, i'm lxght 👋
 
 Self-taught developer building web infrastructure, APIs, and Discord bots for Roblox games. Currently working as Lead Developer at **Uplink** and Developer at **SCI - Pathos III**.
 
