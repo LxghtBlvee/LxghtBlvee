@@ -2,6 +2,11 @@
 
 Self-taught developer building web infrastructure, APIs, and Discord bots for Roblox games. Currently working as Lead Developer at **Uplink** and developing **Perch**.
 
+<p align="center">
+  <img src="https://api.lxghtblvee.dev/badges/discord" alt="Discord" />
+  <img src="https://api.lxghtblvee.dev/badges/spotify" alt="Spotify" />
+</p>
+
 ---
 
 ## 💻 Tech Stack
