@@ -22,6 +22,7 @@ Self-taught developer building web infrastructure, APIs, and Discord bots for Ro
 **Backend & APIs**
 
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)   
 ![Elysia](https://img.shields.io/badge/Elysia-%230F172A.svg?style=for-the-badge&logo=elysia&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-%23FF6B00.svg?style=for-the-badge&logo=hono&logoColor=white)
