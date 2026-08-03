@@ -1,4 +1,4 @@
-# hey, i'm lxght 👋
+# howdy, i'm Lxght 👋
 
 Hey! I'm a self-taught developer building web infrastructure systems, backend APIs, and Discord applications/bots for Roblox games. I am currently working @ PRI as a Junior Developer & Working on/Contributing to multiple **open-sourced** projects!
 
