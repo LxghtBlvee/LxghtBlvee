@@ -1,6 +1,6 @@
 # hey, i'm lxght 👋
 
-Self-taught developer building web infrastructure, APIs, and Discord bots for Roblox games. Currently working as Lead Developer at **Uplink** and developing **Perch**.
+Hey! I'm a self-taught developer building web infrastructure systems, backend APIs, and Discord applications/bots for Roblox games. I am currently working @ PRI as a Junior Developer & Working on/Contributing to multiple **open-sourced** projects!
 
 <p align="center">
   <img src="https://api.lxghtblvee.dev/badges/discord" alt="Discord" />
